@@ -15,8 +15,8 @@ import java.io.*;
 
         Scanner sc = new Scanner(System.in);
         int t=sc.nextInt();
-
-        for(int i=0;i<t;i++)
+int i=0;
+        for(;i<t;i++)
         {
             long x=sc.nextLong();
             try
